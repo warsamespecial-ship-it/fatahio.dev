@@ -1,0 +1,66 @@
+{
+  "personal": {
+    "name": "Abdifatah Mawlid Hussein",
+    "title": "Software Engineer",
+    "tagline": "Building innovative solutions with code",
+    "email": "abdifatahmawlidhussein01@gmail.com",
+    "phone": "00252634791732",
+    "location": "Borama, Somaliland",
+    "image": "/images/profile.jpg"
+  },
+  "social": {
+    "github": "https://github.com/warsamespecial-ship-it",
+    "linkedin": "https://linkedin.com/in/YOUR_USERNAME",
+    "twitter": "https://twitter.com/YOUR_USERNAME",
+    "email": "abdifatahmawlidhussein01@gmail.com"
+  },
+  "about": {
+    "bio": "I am a passionate Software Engineer with experience in developing robust financial systems and web applications. I specialize in full-stack development using modern technologies like React, Node.js, and React Native. My work focuses on creating secure, scalable, and user-friendly applications that solve real-world problems.",
+    "skills": [
+      { "name": "Java", "level": 85, "category": "Programming" },
+      { "name": "PHP", "level": 80, "category": "Programming" },
+      { "name": "JavaScript", "level": 90, "category": "Programming" },
+      { "name": "Node.js", "level": 85, "category": "Programming" },
+      { "name": "Python", "level": 75, "category": "Programming" },
+      { "name": "React", "level": 90, "category": "Web Development" },
+      { "name": "React Native", "level": 85, "category": "Mobile Development" },
+      { "name": "Tailwind CSS", "level": 90, "category": "Web Development" },
+      { "name": "HTML/CSS", "level": 95, "category": "Web Development" },
+      { "name": "MySQL", "level": 85, "category": "Database" },
+      { "name": "MongoDB", "level": 80, "category": "Database" },
+      { "name": "Oracle", "level": 75, "category": "Database" },
+      { "name": "Git/GitHub", "level": 90, "category": "Tools" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Dahabshiil Group",
+      "position": "Software Engineer",
+      "period": "2022 – 2024",
+      "description": [
+        "Worked on debit and credit money operations systems.",
+        "Developed and maintained software applications to support financial transactions.",
+        "Improved system reliability and performance by debugging and optimizing code.",
+        "Collaborated with IT teams to ensure secure and efficient digital payment services."
+      ]
+    },
+    {
+      "company": "Amal Bank",
+      "position": "Intern",
+      "period": "2021 – 2022",
+      "description": [
+        "Assisted in software development and system support tasks.",
+        "Learned best practices in financial software development.",
+        "Contributed to team projects and code reviews."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amoud University – Faculty of Information Technology",
+      "degree": "Bachelor of Science in Software Engineering",
+      "period": "2023 – 2026 (Expected)"
+    }
+  ]
+}
+

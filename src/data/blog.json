@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React and TypeScript",
+    "description": "Learn how to set up a modern React application with TypeScript for type safety and better development experience.",
+    "date": "2024-01-15",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800"
+  },
+  {
+    "id": 2,
+    "title": "Building Responsive UIs with Tailwind CSS",
+    "description": "A comprehensive guide to creating beautiful, responsive user interfaces using Tailwind CSS utility classes.",
+    "date": "2024-02-20",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=800"
+  },
+  {
+    "id": 3,
+    "title": "Best Practices for React State Management",
+    "description": "Exploring different approaches to state management in React applications, from useState to Context API and beyond.",
+    "date": "2024-03-10",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=800"
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Development with React Native",
+    "description": "Step-by-step tutorial on building cross-platform mobile applications using React Native.",
+    "date": "2024-04-05",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800"
+  }
+]
+

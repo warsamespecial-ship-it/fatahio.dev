@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce platform with payment integration, user authentication, and admin dashboard.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
+    "technologies": ["React", "Node.js", "MongoDB", "Express"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/ecommerce"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "A collaborative task management application with real-time updates and team collaboration features.",
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800",
+    "technologies": ["React", "Firebase", "Tailwind CSS"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/taskapp"
+  },
+  {
+    "id": 3,
+    "title": "Financial Transaction System",
+    "description": "Secure debit and credit money operations system for financial transactions.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+    "technologies": ["Java", "MySQL", "PHP", "Oracle"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/financial"
+  },
+  {
+    "id": 4,
+    "title": "Mobile Banking App",
+    "description": "Cross-platform mobile banking application with secure transaction handling.",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800",
+    "technologies": ["React Native", "Node.js", "MongoDB"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/mobilebanking"
+  },
+  {
+    "id": 5,
+    "title": "Portfolio Website",
+    "description": "Responsive personal portfolio website with modern design and smooth animations.",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+    "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/portfolio"
+  },
+  {
+    "id": 6,
+    "title": "API Integration Dashboard",
+    "description": "Dashboard for managing and monitoring API integrations with analytics and reporting.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+    "technologies": ["React", "Python", "REST API", "Chart.js"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/dashboard"
+  }
+]
+
